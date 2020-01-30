@@ -1,4 +1,4 @@
-## Compile SCSS into CSS automatically on Linux
+## Compile .SCSS (SASS) into .CSS automatically on Linux
 
 * download Node.js
 * cd to project folder
